@@ -18,7 +18,7 @@ shirt / рубашка
 sell / продавать
 which / какую?, какой?
 mend / ремонтировать, чинить
-wears / носить одежду
+wear / носить одежду
 clothes / одежда
 put on / надевать, одевать
 nearby / поблизости, рядом
@@ -31,5 +31,94 @@ often / часто
 tick / отмечать галочкой
 noise / шумный
 bakery / булочная, пекарня
+#
+personality / характер, черта личности
+intelligent / умный
+kind / добрый
+talkative / общительный
+funny / смешной (характер)
+stupid / глупый
+serious / серьезный
+boring / скучный
+unkind / не добрый
+friendly / дружелюбный
+colleague / коллега
+classmate / одноклассник
+awful / ужасно
+vowel /  гласная буква
+horrible / отвратительный
+flatmate / сожитель
+tire (verb) / уставать, утомляться
+purse / кошелек
+dairy / ежедневник
+earphones / наушники
+take / брать
+give / давать
+meet / встречаться
+dish / блюдо
+#
+make arrangements / договариваться
+suggest / предлагать
+clean up / мыть посуду,  убираться
+tell / рассказывать
+gap / промежуток, пролом
+loud / громкий
+hope / надежда, надеяться
+#
+occasions / случай
+custom / обычай
+riddle / загадка, тайна
+hold / устраивать мероприятие 
+pancake / блины
+bonfire /  костер
+swing / качать
+event / мероприятие
+fortress / крепость
+relase / освобождать
+captivity / плен
+#
+furniture / мебель
+garage /   гараж
+balcony /  балкон
+hall / холл, коридор
+living room /  гостинная
+kitchen / кухня
+dining room / столовая
+bathroom / ванная комната
+roof terrace / лоджия на крыше
+upstairs / верхняя часть здания
+downstairs /  на нижней части здания
+bath / ванная (емкость для мытья)
+carpet /  ковер (большой)
+cupboard / буфет  (в смысле мебели)
+desk / письменный стол
+rug / маленький коврик
+sink / раковина (на кухне)
+shelves / полки (в смысле кн жные и т.п.)
+wardrobe / гардероб (мебель)
+washbasin / раковина в ванной
+take place / происходить (где-то),  случаться (что-либо)
+#
+crowd / переполнять (помещение)
+tip / совет (намек)
+curtain / шторы
+seafront /  приморский бульвар
+expensive / дорогостоящий
+experience / жизненый опыт
+offer / предложение, предлагать сделку и т.п.
+shower / душ, ливень (обильный дождь)
+block of flats /  многоквартирный дом
+#
+borrow / занимать, одалживать
+enough / достаточное количество
+perhaps / возможно (в смысле вероятно)
+stamp / почтовая марка
+art gallery /  картинная галлерея
+theater / театр
+police station / полицейский участок
+sports centre / спортивный центр
+pharmacy / аптека
+letter / письмо
+post office / почта
 
 
