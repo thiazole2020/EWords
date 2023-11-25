@@ -1,0 +1,78 @@
+be*was (were) *been 	/быть
+become 	*became *	become 	/становиться
+begin 	*began *	begun 	/начинать
+bite *	bit *	bitten 	/кусать
+blow *	blew 	*blown 	/дуть
+break *	broke 	*broken 	/ломать
+bring 	*brought *	brought 	/приносить
+build *	built 	*built 	/строить
+buy 	*bought *	bought 	/покупать
+catch *	caught *	caught 	/ловить,хватать,успеть
+choose *	chose* 	chosen 	/выбирать
+come *	came* 	come 	/приходить
+cost *	cost *	cost 	/стоить
+cut 	*cut *	cut 	/резать
+do 	*did *	done 	/делать
+draw *	drew *	drawn 	/рисовать,тащить
+drink *	drank *	drunk 	/пить
+drive *	drove 	*driven 	/водить (машину etc.)
+eat *	ate *	eaten 	/кушать, есть
+fall *	fell 	*fallen 	/падать
+feel *	felt *	felt 	/чувствовать
+find 	*found 	*found 	/находить
+fly 	*flew *	flown 	/летать
+forget 	*forgot* 	forgotten 	/забывать
+freeze *	froze *	frozen 	/замерзать
+get 	*got *	got 	/получать
+give 	*gave 	*given 	/давать
+go 	*went*	gone 	/идти
+grow 	*grew *	grown 	/расти
+have 	*had *	had 	/иметь
+hear 	*heard *	heard 	/слушать
+hide 	*hid* 	hidden 	/прятать(ся)
+hit 	*hit *	hit 	/ударять, попадать
+hold 	*held *	held 	/держать
+hurt *hurt 	*hurt 	/причинить боль
+keep *	kept *	kept 	/хранить, содержать
+know 	*knew*	known 	/знать
+learn 	*learnt or learned 	*learnt or learned 	/учить
+leave 	*left *	left 	/оставить
+lend 	*lent *	lent 	/одалживать, давать займ
+let 	*let *	let 	/позволять
+lie 	*lay *	lain 	/лежать
+lose *	lost *	lost 	/терять
+make *	made *	made 	/сделать, производить
+mean *	meant* 	meant 	/подразумевать
+meet *	met 	*met 	/встретить
+pay 	*paid* 	paid 	/платить
+put 	*put *	put 	/класть
+read 	*read *	read 	/читать
+ride *	rode 	*ridden 	/ездить верхом
+ring *	rang *	rung 	/звонить
+run 	*ran *	run 	/бежать, течь
+say 	*said 	*said 	/говорить, сказать
+see 	*saw *	seen 	/видеть
+sell 	*sold *	sold 	/продавать
+send 	*sent *	sent 	/посылать
+shine *	shone *	shone 	/светить, сиять
+show 	*showed *	shown 	/показывать
+shut 	*shut *	shut 	/закрывать
+sing *	sang* 	sung 	/петь
+sit 	*sat *	sat 	/сидеть
+sleep 	*slept* 	slept 	/спать
+smell 	*smelt or smelled 	*smelt or smelled 	/пахнуть, нюхать
+speak 	*spoke* 	spoken 	/говорить
+spend 	*spent *	spent 	/тратить
+spill *spilt or spilled* spilt or spilled /проливаться, разбрызгиваться
+stand *	stood 	*stood 	/стоять
+swim 	*swam *	swum 	/плавать
+take 	*took *	taken 	/взять, брать
+teach 	*taught *	taught 	/учить
+tell 	*told *	told 	/рассказывать; сказать
+think *	thought 	*thought 	/думать
+throw 	*threw *	thrown 	/бросить
+understand *	understood* 	understood 	/понимать
+wake 	*woke *	woken 	/просыпаться, будить
+wear 	*wore 	*worn 	/носить (одежду)
+win 	*won *	won 	/выигрывать
+write *wrote 	*written 	/писать
