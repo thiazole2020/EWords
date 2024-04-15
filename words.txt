@@ -1,12 +1,12 @@
 towel / полотенце
 swimsuite / купальник (женский)
 swiming short / купальные шорты (мужские)
-t-shirt / рубашка
+t-shirt / футболка
 stairs / лестница
 sunscreen / крем для загара
 close up / закрываться
 conversation / разговор, беседа
-leave / покидать, уходить
+leave / покидать (в смыле уходить), уходить
 arrive / прибывать, приходить
 come / приехать, приезжать
 #
@@ -71,7 +71,7 @@ riddle / загадка, тайна
 hold / устраивать мероприятие 
 pancake / блины
 bonfire /  костер
-swing / качать
+swing / качать (колебательные движения)
 event / мероприятие
 fortress / крепость
 relase / освобождать
@@ -94,7 +94,7 @@ cupboard / буфет  (в смысле мебели)
 desk / письменный стол
 rug / маленький коврик
 sink / раковина (на кухне)
-shelves / полки (в смысле кн жные и т.п.)
+shelves / полки (в смысле книжные и т.п.)
 wardrobe / гардероб (мебель)
 washbasin / раковина в ванной
 take place / происходить (где-то),  случаться (что-либо)
@@ -109,7 +109,7 @@ offer / предложение, предлагать сделку и т.п.
 shower / душ, ливень (обильный дождь)
 block of flats /  многоквартирный дом
 #
-borrow / занимать, одалживать
+borrow / занимать (в долг), одалживать
 enough / достаточное количество
 perhaps / возможно (в смысле вероятно)
 stamp / почтовая марка
@@ -120,5 +120,431 @@ sports centre / спортивный центр
 pharmacy / аптека
 letter / письмо
 post office / почта
+invite / приглашать
+#
+enjoy / наслаждаться
+trainers / кроссовки
+customer / покупатель
+walking boots/ прогулочные ботинки
+memory stick / карта памяти
+changing room / примерочная
+bookshop /  книжный магазин
+butcher's / мясная лавка
+clothes shop / магазин одежды
+dry-cleaner's / химчистка
+electronics shop /магазин электроники
+greengrocer's / овощная лавка
+hairdresser's / парикмахерская
+chemist's / аптека (в англии)
+newsagent's /киоск с газетами
+shoe shop / обувной магазин
+#
+temple / храм
+awesome / внушаюший трепет (выражение сильной эмоции)
+open spaces /  открытое пространство
+warm/ теплый (приём или характер)
+wondefull/ удивительный (выражение эмоции)
+amazing/поразительный (выражение эмоции)
+exciting/захватывающий
+#
+sophisticate / изысканный (что-либо)
+pan / кастрюля
+item / пункт (в тексте), элемент данных (в информатике)
+pear / груша
+peppers / перец
+butter / масло сливочное
+garlic / чесок
+salmon /   лосось
+strawberries / клубника
+hate / ненавидеть
+ask/ спрашивать
+answer / ответ
+fridge / холодильник (сокращенно)
+lettuce / салат (растение)
+takeaway food/ еда на вынос
+bean / фасоль
+cabbage / капуста (белокочанная)
+peas / горошек
+spinach / шпинат
+aubergine/ баклажан
+corn on the cob / кукуруза 
+grapes / виноград
+oil / подсолнечное масло
+cake / пироженное
+biscuits / печенье
+yoghurt / йогурт
+rice / рис
+bread / хлеб
+pasta /макароны
+cereal / хлопья (геркулес мюсли и т.п.)
+noodles / лапша
+beef / говядина
+lamb / баранина
+prawns / креветки
+countable / исчислимое (существительное)
+bowl / пиала
+jar / стеклянная банка
+tin / жестяная банка (низкая)
+can / жестяная банка (высокая)
+carton / картонный пакет (из под молока)
+packet / упаковка в виде пакета (в самом общем представлении)
+glass / стеклянный стакан
+mug / стакан (высокий)
+savoury food / пряная еда
+cookie / печенье (америк.)
+soft drink / безалкогольные напитки
+not many /     немного
+a lot / много
+none / отсутствие чего-либо (заменяет сущ.)
+quite a lot / достаточно много
+spoonful / полная ложка
+laugh /смеятся , смех
+healthy / здоровый
+find out / выяснить (в смысле узнать)
+meal / принимать пищю
+bill / счет
+tip / чаевые
+fries / картошка-фри
+#
+frying pan / сковородка
+plate/ тарелка
+knife / нож
+fork /  вилка
+spoon / ложка
+boil / кипятить, варить
+chop / рубить
+stir /  перемешивать
+fry / жарить
+sprinkle /посыпать (специи например)
+cross out /вычеркивать
+seafood / морепродукты (кроме рыбы)
+squid / кальмар
+stuff / фаршировать, набивать (что либо)
+ounce /  унция
+delicious /очень вкусный
+fiancee /невеста
+pieces /куски
+flour /мука
+plain / простой (вкус)
+certainly / да конечно (в ответ на просьбу)
+#
+melon / дыня
+starter/первые блюда (салатики ...)
+main course/ основные блюда
+serve /подавать на стол (блюда)
+delight / восторг, наслаждение
+pie/пирог
+wedding /свадьба
+kettle / чайник
+decide /принмать решение
+dig/копать
+rest/  остальные (элементы; члены общества ...)
+turkey/индейка
+#
+chilhood / детство
+contest / соревнование, конкурс
+violence / насилие 
+afraid / испуганный
+retire / уходить на пенсию
+performer/ исполнитель (музыки и т.п.)
+#
+walk up / подниматься (по жизни и т.п.), идти на верх
+tall /высокая
+shy /стестинительный
+celebrity /знаменитость, слава
+common / общий, простой
+spend/тратить
+#
+grow up / взрослеть
+extend / расширять, вытягивать
+follow-up / дополнительный (что-либо)
+#
+vote /голосование
+election/выборы
+raise/собирать (деньги), повышение
+bury/погребать
+decision/решение (о чем либо)
+unconditionally/безусловно
+faithful/преданный
+orphanage/приют для сирот
+orphan/сирота
+admire/восхищаться
+worst/ наихудший
+cheap/ дешевый
+empty /пустой, незаполненный
+sightseeing / осмотр достопримечательностей
+sky train/монорельс
+tram / трамвай
+staff/  обслуживающий персонал
+ancient/ древний, старинный
+take turn /делать по очереди
+farther/дальше (расстояние)
+the farthest/ самый дальний
+laid-back/неторопливый (спокойный)
+#
+square / площадь (городская)
+traffic light /светофор
+corner/угол улиц
+pedestrian street/пешеходная улица
+car park/парковка
+crossroads/перекресток
+beat/ритм , нечто выдающееся
+skyscraper/небоскреб
+bamboo steamer /бамбуковая пароварка
+pick/выбирать (not choise)
+definitely/определенно (в смысле несомненно)
+escape/избегать (чего-либо)
+especially/ в особености (в частности)
+destination/место назначения
+#
+swear words /плохие слова (ругательства)
+carry /нести (переносить)
+feeling/ чувтсво
+hustle / суета (переполох)
+pronunciation/ произношение
+underwear/нательное белье
+thin/тонкий (худощавый)
+slim/ тонкий (худощавый тактично)
+overweight/полный (с лишним весом)
+beard/борда
+moustache/  усы
+appearance/внешний вид
+ties/галстук
+short/короткий (рост)
+bald/лысый
+socks/носки
+jeans/джинсы
+suit/костюм (деловой)
+jacket/пиджак
+trousers/брюки
+top/топ (одежда)
+skirt/юбка
+sweater/свитер
+shorts/шорты
+dress/платье
+coat/пальто
+#
+romantic film/  романтический фильм
+horror film/фильм ужасов
+drama/драматический фильм
+comedy/комеди
+animated film/анимационный фильм
+musical/мюзикл
+action film/  боевик (фильм)
+sci-fi film/научно-фантастический фильм
+scary/жуткий
+chase/погоня
+cry/крик, плач
+acting/ игра актеров
+accident/несчастный случай
+#
+convenience/удобство
+habit/ привычка
+fasion/мода
+traffic jam/пробка (автомобильная)
+convenient/удобный
+polluting/загрязняющий
+successful/успешный
+almost/почти
+cyclist/велосипедист
+careful/осторожный, внимательный
+kid/парень
+adult/взрослый (совершеннолетний)
+seatbelt/ремни безопасности
+stick/липнуть, застрявать
+rush hour/час пик
+rollerblades/  роликовые коньки
+pick up/поднимать
+kick scooter/ самокат
+shopkeeper/владелец магазина
+take off/снимать (в смысле удалять)
+knock down/свалить (в смысле уронить)
+pavement/тротуар
+#
+get on/сесть на (поезд автобус...)
+get off/ выйти с (поезда автобуса ...)
+get into/сесть в (машину такси...)
+get out of/выйти из (машины такси ...)
+ferry/  паром
+lorry/ грузовик(фура)
+truck/грузовик (фура в америке)
+motobike/ мотоцикл
+scooter/мопед
+underground/  метро
+subway/метро (америка)
+van/микроавтобус
+statement/высказывание
+go on foot/ ходить пешком
+#
+hitchhiker/автостопщик
+carriage/пассажирский вагон
+commute/дорога до дома и обратно
+competition/состязание
+worried/обеспокоенный
+miss/опоздать
+broke down/сломаться
+queue/ очередь
+ear plugs/ беруши
+guard/охрана
+sweaty/потный
+poor thing/бедняга (сочувствие)
+salary/зарплата
+excuse/извинение
+#
+check in/ регистрироваться
+land/приземляться
+delay/задерживаться
+calm/спокойствие (человека)
+queue/ очередь
+argue/спорить
+floor/пол
+fee/сбор, пошлина
+luggage/багаж
+charge/руководство (начальство)
+scream/пронзительно кричать
+couples/пара, супружеская пара
+gardener/садовник
+thrilled / взволнованный
+jogging/ разминочная пробежка
+stay in/остаться дома
+pick/отбирать (выбирать not choise)
+anyway/во всяком случае
+employ/работа по найму, использовать (not use)
+#
+thirsty/испытывать жажду
+sunburnt/солнечный ожог
+stung/ужаленный
+stay up/неложиться спать
+crouch /припасть к земле
+pinch/ сдавливать (выдавливать)
+push out/выдвигать вперед
+painkiller/обезболивающее
+shelter/укрытие (кров)
+intrepid/бесстрашный
+fed up/сытый по горло (надоевший)
+#
+headache/головная боль
+stomachache/боль в животе
+hurt/делать больно
+cough/кашель
+sore throat/боль в горле
+runny nose/сопли (сопливеть)
+ache/ боль
+suddenly/внезапно
+flu/грипп
+get a cold/простужаться
+get flu/заболеть гриппом
+mess/беспорядок
+arm/рука (целиком)
+back/спина
+ear/ухо
+eye/глаз
+face/лицо
+finger/палец
+foot/ступня
+hand/кисть
+knee/колено
+leg/нога (целиком)
+elbow/локоть
+neck/шея
+shoulder/ плечо
+mouth/рот
+thumb/большой палец
+toe/палец на ноге
+#
+carefully/внимательно
+straightaway/незамедлительный
+manner/образ действий
+adverb/наречие
+push/толкать
+trouble/неприятность (горе)
+blind/слепой
+hurry/спешка
+reach/дотягиваться
+mess/неприятность
+#
+rarely/редко
+allow/позволять (разрешать)
+exactly/точно
+processed/обработанный
+cheat/обманывать, мошенничать
+backache/боль в спине
+advice/совет (консультация)
+exact/точный
+bungee/тарзанка
+#
+fall off/отпадать
+walk away/обогнать
+cheek/щека
+injury/телесная травма
+altogether/в общем (всего)
+jump off/ спрыгнуть
+stunt/трюк
+entertain/развлекать
+hang up/ повесить телефонную трубку
+#
+eat out/есть не дома (в ресторане)
+time off/свободное время
+wake up/пробуждаться
+voluntary/добровольный
+curious/любознательный
+opportunity/возможность
+remind/напоминать
+celebration/празднование
+appointment/прием у врача
+cross off/вычеркивать
+touch/соприкосновение (контакт)
+look forward/предвкушать
+get on well/ладить (хорошие отношенич)
+get engaged/обручиться
+accept/принимать (соглашаться)
+topic/тема (рассказа)
+interrupt/прерывать (останавливать)
+gossip/сплетни
+response/ответ
+offensive/оскорбительный
+insult/обижать
+please/угождать
+#
+whatever/какой бы ни (любой)
+work out/добиться (в результате труда)
+mean/подлый
+spring/прыгать
+spare/уделить (что либо)
+competitive/соперничающий
+fall out/сорится
+rely on/полагаться на
+earn/зарабатывать
+worth/ценность
+mind/ум (умственные способности)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

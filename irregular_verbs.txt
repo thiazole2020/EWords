@@ -16,7 +16,7 @@ do 	*did *	done 	/делать
 draw *	drew *	drawn 	/рисовать,тащить
 drink *	drank *	drunk 	/пить
 drive *	drove 	*driven 	/водить (машину etc.)
-eat *	ate *	eaten 	/кушать, есть
+eat *	ate *	eaten 	/кушать, есть(пищу)
 fall *	fell 	*fallen 	/падать
 feel *	felt *	felt 	/чувствовать
 find 	*found 	*found 	/находить
@@ -31,12 +31,12 @@ have 	*had *	had 	/иметь
 hear 	*heard *	heard 	/слушать
 hide 	*hid* 	hidden 	/прятать(ся)
 hit 	*hit *	hit 	/ударять, попадать
-hold 	*held *	held 	/держать
+hold 	*held *	held 	/держать (удерживать)
 hurt *hurt 	*hurt 	/причинить боль
 keep *	kept *	kept 	/хранить, содержать
 know 	*knew*	known 	/знать
-learn 	*learnt or learned 	*learnt or learned 	/учить
-leave 	*left *	left 	/оставить
+learn 	*learnt or learned 	*learnt or learned 	/учить (что-то)
+leave 	*left *	left 	/покидать (в смысле уходить)
 lend 	*lent *	lent 	/одалживать, давать займ
 let 	*let *	let 	/позволять
 lie 	*lay *	lain 	/лежать
@@ -67,7 +67,7 @@ spill *spilt or spilled* spilt or spilled /проливаться, разбры�
 stand *	stood 	*stood 	/стоять
 swim 	*swam *	swum 	/плавать
 take 	*took *	taken 	/взять, брать
-teach 	*taught *	taught 	/учить
+teach 	*taught *	taught 	/учить (кого-нибудь)
 tell 	*told *	told 	/рассказывать; сказать
 think *	thought 	*thought 	/думать
 throw 	*threw *	thrown 	/бросить

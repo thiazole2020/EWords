@@ -16,20 +16,24 @@
             ...
         }
     
-    lessons_structure = {
-            1:[1,5],
-            ...
-        }
+        lessons_structure = {
+                1:[1,5],
+                ...
+            }
 '''
 
 import random
 
 
-def init_data(file_name, main_sep, less_sep, syn_sep, irr_verb_sep, encoding_type='utf-8'):
-    dictionary = {}
+def init_data(file_name, main_sep, less_sep, syn_sep, irr_verb_sep,
+              encoding_type='utf-8', start_dictionary=None, start_word_id=1):
+    if start_dictionary is None:
+        dictionary = {}
+    else:
+        dictionary = start_dictionary
     lessons = {}
     with open(file_name, "r", encoding=encoding_type) as words_file:
-        word_id = 1
+        word_id = start_word_id
         lesson_id = 1
         lesson_words_id = []
 
@@ -54,7 +58,7 @@ def init_data(file_name, main_sep, less_sep, syn_sep, irr_verb_sep, encoding_typ
                 word_id += 1
 
         lessons[lesson_id] = lesson_words_id
-    return dictionary, lessons
+    return dictionary, lessons, word_id
 
 
 def output_expression_gen(input_str):
@@ -123,10 +127,11 @@ def print_dict(words_dictionary, init_key, finall_key, irr_form=False):
 # SETTINGS
 words_dictionary, lessons = None, None
 mode1_dict = {
-    'words': 'words.txt',
-    'stable expressions': 'stable_expressions.txt',
-    'prepositions': 'prepositions.txt',
-    'irregular verbs': 'irregular_verbs.txt',
+    'words': ['words.txt'],
+    'stable expressions': ['stable_expressions.txt'],
+    'prepositions': ['prepositions.txt'],
+    'irregular verbs': ['irregular_verbs.txt'],
+    'oppression mode': ['words.txt', 'stable_expressions.txt', 'prepositions.txt']
 }
 separator_dict = {
     'main_sep': '/',
@@ -143,14 +148,15 @@ console_command = {
 }
 
 # MAIN CODE
-print("Hello!\nIt's the program for improve your English!\nDeveloper: Anshin V.S., ver 1.2\n")
+print("Hello!\nIt's the program for improve your English!\nDeveloper: Anshin V.S., ver 1.3\n")
 while True:
     mode_1 = input("Select word's type.\n"
                    "Input a character to continue.\n"
                    "'1' or nothing    - single word;\n"
                    "'2' or any string - stable expressions;\n"
                    "'3'               - prepositions;\n"
-                   "'4'               - irregular verbs.\n>")
+                   "'4'               - irregular verbs;\n>"
+                   "'5'               - oppression mode.\n>")
     irr_forms = False
     select_over_mode = True
     if mode_1:
@@ -162,6 +168,9 @@ while True:
         elif mode_1 == '4':
             mode1, mode2, mode3 = 'irregular verbs', 'all words', 'r -> e'
             irr_forms = True
+            select_over_mode = False
+        elif mode_1 == '5':
+            mode1, mode2, mode3 = 'oppression mode', 'all words', 'r -> e'
             select_over_mode = False
         else:
             mode1 = 'stable expressions'
@@ -183,9 +192,14 @@ while True:
         else:
             mode3 = 'r -> e'
 
-    words_dictionary, lessons = init_data(mode1_dict[mode1], separator_dict['main_sep'],
-                                          separator_dict['lesson_sep'], separator_dict['syn_sep'],
-                                          separator_dict['irr_verb_sep'], encoding_type)
+    word_id = 1
+    dictionary = None
+    for i in mode1_dict[mode1]:
+        dictionary, lessons, word_id = init_data(i, separator_dict['main_sep'],
+                                              separator_dict['lesson_sep'], separator_dict['syn_sep'],
+                                              separator_dict['irr_verb_sep'], encoding_type,
+                                              start_dictionary=dictionary, start_word_id=word_id)
+    words_dictionary = dictionary
 
     if mode2 == 'all words':
         words_keys_list = list(words_dictionary.keys())

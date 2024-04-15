@@ -23,7 +23,7 @@ twice a week / дважды в неделю
 three times a day / три раза в день
 that's great / это замечательно
 oh, that's a shame! / как жаль (выражение сочуаствия)
-nice to meet you / рад видеть тебя
+nice to meet you / рад встретить тебя
 I'd like to meet ... / я бы хотел встретится (вежливо)
 can i have a coffee? / можно мне кофе?
 could you spell it? / можете сказать это по буквам?
@@ -41,7 +41,7 @@ how about going to the cinema? / как насчет того что бы схо
 where's it showing? / где это показывают (этот фильм)
 what time does it start? / во сколько это начинается?
 the film's at six o'clock / фильм начинается в 6
-what time's good for you? /   какое время  тебе   подходит?
+what time's good for you? /   какое время  тебе подходит?
 how about meeting at half past five / как насчет того что бы встретиться в половину шестого
 why not? / почему бы и нет?
 show interest / проявить интерес
@@ -78,11 +78,385 @@ get a ticket / получить (достать) билет
 it's called... / это называется...
 you can send a letter at a post office / вы можете отправить письмо с почты
 you can borrow a book from a library / вы можете взять (на время) книгу в библиотеке
-you can look at old object at a museum / вы можете увидить древности в музее
+you can look at old objects at a museum / вы можете увидить древности в музее
 you can buy medicine at a pharmacy / вы можете купить медицинские товары в аптеке
 you can buy food at a supermarket / вы можете купить еду в супермаркете
-
-
-
+#
+things for the home / вещи для дома
+thanks anyway / тем не менее спасибо
+sorry, no. only in medium / извините  нет. только в размере m (про одежду)
+i'm not sure / я не уверен
+can i help you / могу я вам помочь?
+it's too small / это (вещь)  слишком мала
+how much are they? / сколько они стоят?
+how much is it? / сколько это стоит?
+over there / там (показывает направление до места)
+i'll take it / я возьму это (в смысле куплю)
+i'm just looking / я просто смотрю
+try it on / примерять это
+have you got it in large? / есть у вас это (предмет одежды) в размере l?
+no, it isn't right / нет это не то как надо
+i need to think about it / мне нужно подумать над этим
+#
+one of my favourite places is ... / одно из моих любимых мест...
+it's near... / это (место) рядом с ...
+it's between... / это (место) между...
+i go there every day... / я езжу (посещаю) его (место) каждый день...
+when i'm there i usually... / когда я там (в каком-то месте) я обычно...
+i like it because it's ... / я люблю это потому что...
+it's great place to... /  это прекрасное место для ...
+there's always .... (smt to do) / там всегда ... (что-то делаю)
+#
+what's for dinner? / что на обед?
+well, let's see. / хорошо. давай посмотрим.
+for breakfast, i sometimes have .../ на завтрак я иногда ем ...
+for lunch i never have .../ на ланч я никогда не ем ...
+in the evening, i usually drink .../ вечером я обычно пью ...
+my favorite vegetable is .../ мой любимый овощ ...
+i really hate .../ я очень сильно не люблю ...
+my favorite snack is ... / моя любимая закуска это ...
+before i go to bed, i have ... /  перед сном я ем ...
+what about you? / как насчет тебя? (спрашивают мнение собеседника)
+where do you go when you want to .../  куда вы идете когда хотите ...
+would you like something to drink?/ не хотите ли вы выпить чего-нибудь?
+can i have the bill, please?/ можно мне счет пожайлуста?
+are you ready to order? / вы готовы сделать заказ?
+is that eat in or take away? / будете есть внутри или возьмете на вынос?
+good evening. a table fot two? / добрый вечер. столик на двоих?
+#
+i'm going to do .../ я собираюсь сделать ...
+one of my favorite dishes is ... / одно из моих любимых блюд это ...
+it's easy to make / это легко сделать (изготовить)
+you need ... / вам необходимо ..
+mix together the ... / смешайте вместе ... 
+it's really good with .. /  это (блюдо) очень хорошо с ...
+there're delicious / они очень вкусные
+it's sweet / оно (блюдо) сладкое
+#
+go to university / поступить в институт (разг.)
+in four year at university / на четвертом курсе института
+finish university / закончить университет
+get marry / пожениться
+she is really good at ... / она очень хороша в ...
+she become a model /она становмтся моделью
+my son is in his first year at school / мой сын учится в первом классе
+#
+go to school / пойти учится в школу
+become a driver / стать водителем
+get married / жениться
+get a job / получить работу
+meet your husband / познакомиться с мужем
+meet your wife / познакомиться с женой
+start a new job / начать новую работу
+start a company / открыть фирму (компанию)
+work for Microsoft / работать в Microsoft
+work as a taxi driver / работать водителем такси
+#
+go for a walk / ходить на прогулку
+go shopping/ ходит по магазинам
+go to the gym / ходить в качалку
+see my family /увидится с моей семьей
+see friends / увидится с друзьями
+see a film / увидить фильм
+do the housework /  делать домашние дела
+do nothing /ничего не делать
+stay at home /остаться дома
+stay in bed /оставаться в кровати
+stay with some friends/ остатся с моими друзьями
+write an e-mail / написать e-mail
+write a text /писать текст
+write to my sister/писать моей сестре
+household chores / домашние заботы
+play the piano /играть на пианино
+play chess/   играть в шахматы
+play computer games /играть в компьютерные игры
+what did you do ? /что ты делал?
+did you have a good weekend ? / у тебя были хорошие выходные
+it was ok /было хорошо
+where did you go ?/куда ты ходил
+that sounds good/это звучит не плохо
+why was that?/ почему это было так?
+nothing special / ничего особенного
+who did you go with?/кто ходил с тобой?
+how was your weekend?/как прошли твои выхрдные
+what happened?/что случилось?
+#
+became a man of peace / стать человеком мира
+moved to an orphanage/перехать в сиротский приют
+i admire her / я восхищаюсь ей
+can i ask you about your mother? / могу я спросить про твою маму?
+can i ask you about your first wife?/могу я спросить про твою первую жену?
+when did you decide to...?/когда ты аринял решение о ...?
+when did you first meet...?/ когда впервые встретил ...?
+where did you decide to...?/где принял решение о ...?
+where did you first meet ...?/где ты впервые встретил....?
+what's you favorite film?/какой твой любимый фильм
+are there any questions from audience?/есть вопрлсы от аудитории
+let me think about that/дайте мне подумать об этом
+local dishes / местные блюда
+self-catering apartment / апартаменты без включенного питания
+going sightseeing / пойти осматривать достопримечательности
+completely changed person/полностью изменившишимся человеком
+#
+turn right/поверните на право
+turn left/поверните на лево
+go straight on/идте прямо
+go past the cinema/ идите мимо кинотеатра
+stop at the traffic light/ остановитесь на светофоре
+it's on the corner/это на углу улиц
+it's on the right/это справа
+it's on the left/это слева
+can you tell me the way to ...?/можете подсказать мне дорогу до ...?
+can i check the first part?/могу я проверить первую часть?
+how can i get to ...?/как я могу дойти до ...?
+is there a cinema near here?/есть ли здесь поблизости кинотеатр
+it's past the bank/это за банком
+go straight on/идите прямо на
+turn left at the crossroads/поверните на лево на перекрестке
+turn right into the building/п0оверните направо в здание
+go back/ идти обратно
+#
+it's in the north of ... /это на севере от ...
+it's in the west of .../это на западе от ..
+it's next to ... / это следующее за ...
+it's near .../это рядом с  ...
+it's the best place to .../это лучшее место для
+most tourists don't know about it/большинство туристов не знают об этом
+tourists don't usually go there/туристы обычно не ходят сюда
+it's really quiet ... / это действительно тихое (место)
+it's really interesting.../это действительно интересное (место)
+#
+look at /смотреть на (что то)
+think about /думать о (чем либо)
+listen to / слушать (что то)
+take a photo of /делать фотографию (чего нибудь)
+wait for/ждать (чего то)
+read about/читать о (чем то)
+chat with/болтать с (кем то)
+talk on the phone/говорить по телефону
+ask about/ спрашивать о (чем то)
+lose weight/похудеть
+put on weight/набрать вес (располнеть)
+straight hair/прямые волосы
+curly hair/кучерявые волосы
+long hair/длинные волосы
+medium build/ среднего телосложения
+#
+fall in love/влюбляться
+space travel/космические путешествич
+can you recommend a good film?/можете порекомендовать хороший фильм?
+what kind of film do you like?/какой вид фильмов вам нравится?
+how about 007?/как насчет 007?
+i don't really like sci-fi films?/я не очень люблю научно-фантастические фильмы
+do you now about this film?/вы знаете об этом фильме
+what's it about?/ о чем он? (этот фильм)
+who's in it?/ кто игает в нем? (в фильме)
+i think you'd like it/я думаю вам понравится
+what does she look like?/как она выглядит?
+can you recommend an interesting book?/  можете пореклмендовать интересную книгу
+i really like romantic films/я очень сильно люблю романтические фильмы
+l hate sci-fi books/я ненавижу научно-фантастические книги
+i like action/я люблю боевики
+i think you'd like Casablanka /я думаю вам понравится Касабланка (фильм)
+what about Lord of the Ring?/как насчет Властелина колец?
+do you know Home alone?/вы знаете фильм Один дома
+it's about .../это про ... (о чем фильм)
+that kind of thing/что-то в этом роде
+#
+once upon/когда то, однажды
+stay alive/остаться в живых
+like car showroom/подобно выставке автомобилей
+not just the place to shop/не просто место для покупок
+can i ask you a few questions?/могу я задать нкколько вопросов?
+what kind of festival do you like?/какие виды фестивалей вам нравятся?
+it's very popular at the moment/это очень популярно сейчас
+how are they different from.../чем они отличаются от ...
+prices are much expensive than before/цены более высокие чем раньше
+people like it because.../люди любят это потом что ...
+it depend on ..../это зависит от...
+years ago you couldn't always get information on the internet/много лет назад вы не всегда могли получить информацию в интернете
+a lot of traffic/ сильное движение (транспортное)
+go by bike/ передвигаться на велосипеде
+bike-friendly city/ город приспособленный для велосипедов
+bike share system/ система совместного пользования велосипедам
+in the middle of the traffic/посреди потока транспорта
+when did you last ...?/ когда ты в последний раз .... ?
+#
+i had a rest/у меня было свободное время
+any other information?/имеется какая нибудь другая информация?
+travelling by road/путешествовать по дорогам (наземным транспортом)
+travelling by rail/путешествовать железнодорожным траспортом
+travelling by water/путешествовать водным транспортом
+i'm very sorry. I'm late/я сильно извиняюсь. я опоздал
+i'm terrible sorry. i missed the meeting./я ужасно извиняюсь. я пропустил встречу
+i'm so sorry to be late/ я так извиняюсь за опоздание
+i'm afraid i missed the bus/боюсь я опоздала на автобус
+i'm afraid i lost my keys/боюсь я потерял свои ключи
+that's ok. no problem/все хорошо никаких проблем
+don't worry about it/не беспкойся об этом
+no, really. it's fine/действительно все хорошо
+i don't belive you/я не верю тебе
+don't let it happen again/не допускайте повторения этого снова
+i may let myself/ могу себе позволить
+#
+the plane take off / самолет взлетел
+go through security/  проходить через службу безопасности
+wait in departure lounge/ожидать в зале вылета
+get on the plain/садится на самолет
+go to the departure gate/идти к посадочныс воротам
+do some tax-free shopping/совершать покупки в дютике
+go through passport control/проходить паспортный контроль
+there's a small problem here/есть небольшая проблемка
+but it's very important that .../ но это очень важно что бы...
+you don't understand/вы не поняли
+i see, but .../я вижу но
+let me explain one more time/позвольте мне объяснить еще раз
+it's your job to.../ это ваша работа...
+can i speak to the person in charge please/могу я говорить с ответственным лицом пожайлуста
+move home/переезжать (менять место жительства)
+start a family/  завести семью
+stop working/бросить работу
+give money to someone/дать деньги кому-нибудь
+learn to fly/научиться летать
+buy a new car/купить новую машину
+have a holiday/провести отпуск
+get a job/получить работу
+get some new jeans/купить новые джинсы
+do a course/проходить курсы
+go clubbing/сходить на тусовку в клуб
+go jogging/сходить размяться (пробежаться)
+stay with friends/остановиться у друзей
+stay in a hotel/остаться в гостинице
+learn to drive/учиться водить
+learn to swim/учиться плавать
+go for a walk/сходить прогуляться
+go for a meal/сходить перекусить
+go for a drink/сходить выпить
+start a new job/начать новую работу
+start a new business/начать новый бизнес
+move to another country/переехать в другую страну
+move into a flat/переехать в квартиру
+take a brake/притормозить
+take time off/взять отгул
+take photos/делать фотографии
+#
+get hot/разгорячится (стать горячим)
+get thirsty/жаждить (стать хотеть пить)
+get tired/уставать (стать уставшим)
+get wet/промокнуть (стать промокшим)
+get warm/согреться (стать согревшимся)
+get hungry/проголодаться (стать голодным)
+get lost/потеряться (стать потерявшимся )
+get stung/ стать укушенным (пчелой)
+get sunburnt/получить солнечный ожег (стать обоженным)
+get cold/замерзать (стать замершим)
+get to work/приступить к работе
+get angry/ разозлиться (стать разозленным)
+get sick/заболеть (стать больным)
+get some chocolate/ купить шоколад
+get there/добраться туда
+get a new motobike/купить новый мотоцикл
+#
+watch a film/смотреть фильм
+watch a play/смотреть постановку (спектакль)
+watch a dance performance/смотреть танцевальное представление
+look at a drawing/посмотреть на наброски картин
+look at a painting/смотреть на картины
+look at a statue/смотреть на скульптуру
+look at an exhibition/смотреть на выставку
+go to a concert/сходить на коцерт
+go to a play/сходить на спектакль
+go to a dance performance/сходить на таневальное представление
+how about going to a concert?/как насчет того чтобы сходить на концерт
+why don't we watch a film?/почему бы нам не посмотреть фильм?
+shall we watch a film?/может посмотрим фильм?
+let's cook something/пойдем приготовим чего-нибудь
+i'd like to go/я бы хотел сходить
+that's good idea/это хорошая идея
+i don't feel like doing that/мне не хочется делать этого
+it's not for me/это не для меня
+that doesn't sound very good/это звучить не очень хорошо
+#
+this happend about 3 years ago/это случилось около трех лет назад
+but then one day the weather got hotter/но однажды погода стала еще жарче
+but then one day the weather changed/но однажды погода изменилась
+everywhere was dry/везде было сухо
+everything was different/все было иначе
+it lasted a long time/    это продолжалось много времени
+it was difficult to do anything/было трудно делать что-либо
+to tell you the truth, i really hated it/сказать по правде я действительно ненавидел это
+everyone got very tired/все очень устали
+i was glad when it was over/я был рад когда все закончилось
+#
+i've got a headache/у меня болит голова
+i have a stomachache/у меня боль в животе
+my legs hurts/мои колени болят
+i've got a cough/у меня кашель
+i have a sore throat/у меня болит горло
+l've got a runny nose/у меня сопли
+i've got a terrible .../у меня ужасный ....
+have you got anything for .../  у вас есть что-нибудь для ...
+to endure pain/   терпеть боль
+i don't feel well / я плохо себя чувствую
+#
+get a text message/получить текстовое сообщение
+send a text message/отправить текстовое сообщение
+answer a text message/ответить текстовым сообщением
+start a conversation/начать разговор
+finish a coversation/закончить разговор
+have a conversation/иметь разговор
+turn off your phone/выключить твой телефон
+turn on your phone/включить твой телефон
+exchange names and numbers/обменяться именам и номерами
+remember names and numbers/помнить имена и номера
+let me help/позвольте мне помочь
+let me try/позвольте мне попробывать
+i'll do it/я сделаю это
+can i help you?/могу я помочь вам?
+shall i carry you bag?/мне понести вашу сумку?
+shall i try?/можно я попробую?
+that's kind of you/очень мило с вашей стороны
+#
+i've got a question for ... /у меня есть вопрос для ...
+what do you mean?/что ты имеешь в виду
+do you agree with him?/вы согласны с ним?
+can you tell us more about that?/можете рассказать нам больше об этом?
+could you give an example?/могли бы вы привести пример?
+could you explain?/ могли бы вы объяснить?
+can i ask you about ...?/могу я спросить вас о ....?
+do parachute jump/прыгнуть с парашютом
+be in a film/участвовать в съемках фильма
+meet a new friend on a train journey/встретить нового друга во время путешествия на поезде
+ride an elephant/кататься на слонах
+go to a live sporting event/ходить на спортивное мероприятие (в живую)
+sleep outside/спать вне помещения
+climb a mountain/лазить по горам
+watch the sun rise/смотреть на восход
+watch your favorite singer live in concert/увидеть своего любимого певца на концерте в живую
+#
+well-paid job/хорошо оплачиваемая работа
+lucrative job/хорошо оплачиваемая работа (вар. 2)
+what's up?/что случилось?
+is lisa there?/лиза здесь?
+#
+nice day, isn't it?/хороший ден, не так ли?
+where exactly do you come from?/откуда конкретно вы приехали?
+do you work here?/вы работаете здесь?
+did you have a good weekend?/у вас были хорошие выходные?
+i'll see you late/увидимся позже
+pleased to meet you/очень рад вас увидить
+i'd love a coffee/я бы хотел кофе
+yes. it's lovely/да. это прекрасно
+yes, it was terrible/да это было ужасно
+see you soon/скоро увидимся
+#
+i've know ______ for.../ я знаю ____ в течение ...
+we get on really well ... /мы действительно хорошо ладим ....
+we've got lots of things in common .../у нас много общего ....
+we both enjoy... / нам обоим нравится ...
+one thing i like about _____ is ..../что мне нравится в _____ так это ....
+the only poroblem with _____ is.../единственная проблема с _____ это ...
+he is one of those people that ..../он один из тех людей которые ...
+she is great person/она замечательный человек
 
 
